@@ -2,7 +2,7 @@
 #include <stdlib.h> // imported for malloc
 
 typedef struct n{
-    int x;
+    int x; // data
     struct n* next;
 }node;
 
