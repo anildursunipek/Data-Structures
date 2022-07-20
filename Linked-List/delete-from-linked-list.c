@@ -64,7 +64,7 @@ node *deleteFromList(node *r,int x){
     free(temp);
     return r;
 }
- 
+
 
 
 
