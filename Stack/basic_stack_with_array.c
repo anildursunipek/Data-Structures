@@ -7,22 +7,22 @@ int size = 2;
 
 int pop(){
     if(top <= size/4){
-        int *array2 = (int*)malloc(sizeof(int)/2);
+        size /= 2; // Dizi boyutu yariya indirildi ve malloc ile yeni bir dizi tanimlandi
+        int *array2 = (int*)malloc(sizeof(int)*size);
         for(int i=0;i<top;i++){
-            array2[i] = array[i];
-            free(array);
-            array = array2;
-            size /= 2;
+            array2[i] = array[i]; // Yeni diziye elemanlar aktarildi
         }
-        return array[--top];
+        free(array); // Eski dizi bellekten temizlendi
+        array = array2; // Yeni dizi ilk parametremiz olan array'e referans olarak atandi
     }
+    return array[--top]; // Stack'den cikarilan deger geri donduruldu
 }
 void push(int a){
     if(top >= size){
         /*Eger dizi tamamen doluysa dizi boyutunu arttirmamiz gerekir.
         Eski dizinin boyutunun 2 kati olan yeni bir dizi olusturuldu.*/
-        int *array2 = (int*)malloc(sizeof(size*2)); 
-        for(int i=0;i<size;i++){// Eski dizinin elemanlari yeni diziye kopayalandi
+        int *array2 = (int*)malloc(sizeof(int)*size*2); 
+        for(int i=0;i<top;i++){// Eski dizinin elemanlari yeni diziye kopayalandi
             array2[i] = array[i];
         }
         free(array);// Bellekte gereksiz alan kaplamamasi icin eski dizi silindi
@@ -58,5 +58,13 @@ void main(){
     printStack();
     push(100);
     printStack();
-  
+    printf("%d popped\n",pop());
+    printf("%d popped\n",pop());
+    printf("%d popped\n",pop());
+    printf("%d popped\n",pop());
+    printStack();
+    printf("%d popped\n",pop());
+    printf("%d popped\n",pop());
+    printf("%d popped\n",pop());
+    printStack();
 }
