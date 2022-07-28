@@ -36,6 +36,32 @@ void printTree(node *tree){
     printTree(tree -> right);
 }
 
+node *deletion(node *tree,int data){
+    if(tree == NULL)
+        return NULL;
+    if(tree -> data == data){
+        if(tree -> right == NULL && tree -> right == NULL){
+            return NULL;
+        }
+        if(tree -> right != NULL){
+            tree -> data = findMin(tree -> right);
+            tree -> right = deletion(tree -> right,findMin(tree -> right));
+            return tree;
+        }
+        tree -> data = findMax(tree -> left);
+        tree -> left = deletion(tree -> left,findMax(tree -> left));
+        return tree;
+    }
+    if(tree -> data < data ){
+        tree -> data= deletion(tree -> right,data);
+        return tree;
+    }
+    tree -> left = deletion(tree -> left,data);
+    return tree;
+
+}
+
+
 int searchTree(node *tree,int data){
     if(tree == NULL)
         return -1;
@@ -53,7 +79,7 @@ int findMin(node *tree){
         printf("Tree is empty..\n");
     while(tree -> left !=NULL)
         tree = tree -> left;
-    printf("Min -> %d\n",tree -> data);
+    return tree -> data;
 }
 
 int findMax(node *tree){
@@ -61,27 +87,34 @@ int findMax(node *tree){
         printf("Tree is empty..\n");
     while(tree -> right !=NULL)
         tree = tree -> right;
-    printf("Max -> %d\n",tree -> data);
+    return tree -> data;
 }
 
 int main(){
     node *tree = NULL;
-    tree = addTree(10,tree);
+    tree = addTree(56,tree);
     printTree(tree);
     printf("---------------\n");
-    tree = addTree(25,tree);
+    tree = addTree(26,tree);
     printTree(tree);
     printf("---------------\n");
-    tree = addTree(30,tree);
-    tree = addTree(40,tree);
+    tree = addTree(200,tree);
+    tree = addTree(18,tree);
+    tree = addTree(28,tree);
+    tree = addTree(190,tree);
+    tree = addTree(213,tree);
     printTree(tree);
     printf("---------------\n");
-    tree = addTree(5,tree);
-    tree = addTree(3,tree);
+    tree = addTree(12,tree);
+    tree = addTree(24,tree);
+    tree = addTree(27,tree);
     printTree(tree);
     printf("---------------\n");
-    printf("Search result -> %d\n",searchTree(tree,30));
+    printf("Search result -> %d\n",searchTree(tree,24));
     printf("Search result -> %d\n",searchTree(tree,340));
-    findMin(tree);
-    findMax(tree);
+    printf("Min -> %d\n",findMin(tree));
+    printf("Max -> %d\n",findMax(tree));
+    tree = deletion(tree,18);
+    tree = deletion(tree,56);
+    printTree(tree);
 }
