@@ -11,18 +11,55 @@ public class Main {
         list.add(2500);
         list.add(3200);
         list.displayList();
-        System.out.println("--->>> Add Head Method Test Outputs");
+        System.out.println("--->>> Add Head Method Test Outputs | --->>> 50 Added");
         list.addHead(50);
         list.displayList();
-        System.out.println("--->>> Delete Method Test Outputs");
+        System.out.println("--->>> Delete Method Test Outputs | 400 and 50 Deleted");
         list.delete(400);
-        list.displayList();
         list.delete(50);
-        list.delete(100);
         list.displayList();
         System.out.println("--->>> Pop Method Test Outputs");
         System.out.println("Returned data --> "  + list.pop());
         list.displayList();
+
+        // Sample Outputs
+        /*
+        --->>> Add Method Test Outputs
+        List Head Index --> 0
+        Data: 100 Next Index: 1 Previous Index: -1
+        Data: 200 Next Index: 2 Previous Index: 0
+        Data: 300 Next Index: 3 Previous Index: 1
+        Data: 400 Next Index: 4 Previous Index: 2
+        Data: 2500 Next Index: 5 Previous Index: 3
+        Data: 3200 Next Index: -1 Previous Index: 4
+        ----------------------------------
+        --->>> Add Head Method Test Outputs | --->>> 50 Added
+        List Head Index --> 6
+        Data: 50 Next Index: 0 Previous Index: -1
+        Data: 100 Next Index: 1 Previous Index: 6
+        Data: 200 Next Index: 2 Previous Index: 0
+        Data: 300 Next Index: 3 Previous Index: 1
+        Data: 400 Next Index: 4 Previous Index: 2
+        Data: 2500 Next Index: 5 Previous Index: 3
+        Data: 3200 Next Index: -1 Previous Index: 4
+        ----------------------------------
+        --->>> Delete Method Test Outputs | 400 and 50 Deleted
+        List Head Index --> 0
+        Data: 100 Next Index: 1 Previous Index: -1
+        Data: 200 Next Index: 2 Previous Index: 0
+        Data: 300 Next Index: 4 Previous Index: 1
+        Data: 2500 Next Index: 5 Previous Index: 2
+        Data: 3200 Next Index: -1 Previous Index: 4
+        ----------------------------------
+        --->>> Pop Method Test Outputs
+        Returned data --> 3200
+        List Head Index --> 0
+        Data: 100 Next Index: 1 Previous Index: -1
+        Data: 200 Next Index: 2 Previous Index: 0
+        Data: 300 Next Index: 4 Previous Index: 1
+        Data: 2500 Next Index: -1 Previous Index: 2
+        ----------------------------------
+        */
     }
 }
 class Node{
