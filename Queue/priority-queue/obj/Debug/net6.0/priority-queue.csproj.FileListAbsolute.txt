@@ -1,0 +1,15 @@
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.csproj.AssemblyReference.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.AssemblyInfoInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.AssemblyInfo.cs
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.csproj.CoreCompileInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\bin\Debug\net6.0\priority-queue.exe
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\bin\Debug\net6.0\priority-queue.deps.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\bin\Debug\net6.0\priority-queue.runtimeconfig.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\bin\Debug\net6.0\priority-queue.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\bin\Debug\net6.0\priority-queue.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\refint\priority-queue.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\priority-queue.genruntimeconfig.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Queue\priority-queue\obj\Debug\net6.0\ref\priority-queue.dll
