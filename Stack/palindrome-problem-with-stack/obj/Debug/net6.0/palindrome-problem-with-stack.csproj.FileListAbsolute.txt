@@ -1,0 +1,15 @@
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\bin\Debug\net6.0\palindrome-problem-with-stack.exe
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\bin\Debug\net6.0\palindrome-problem-with-stack.deps.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\bin\Debug\net6.0\palindrome-problem-with-stack.runtimeconfig.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\bin\Debug\net6.0\palindrome-problem-with-stack.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\bin\Debug\net6.0\palindrome-problem-with-stack.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.csproj.AssemblyReference.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.AssemblyInfoInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.AssemblyInfo.cs
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.csproj.CoreCompileInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\refint\palindrome-problem-with-stack.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\palindrome-problem-with-stack.genruntimeconfig.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Stack\palindrome-problem-with-stack\obj\Debug\net6.0\ref\palindrome-problem-with-stack.dll
