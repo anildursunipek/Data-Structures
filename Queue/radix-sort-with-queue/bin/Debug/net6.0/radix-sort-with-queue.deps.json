@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "radix-sort-with-queue/1.0.0": {
+        "runtime": {
+          "radix-sort-with-queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "radix-sort-with-queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
