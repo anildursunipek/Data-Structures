@@ -1,0 +1,15 @@
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\bin\Debug\net6.0\binary-tree-c-sharp.exe
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\bin\Debug\net6.0\binary-tree-c-sharp.deps.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\bin\Debug\net6.0\binary-tree-c-sharp.runtimeconfig.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\bin\Debug\net6.0\binary-tree-c-sharp.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\bin\Debug\net6.0\binary-tree-c-sharp.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.csproj.AssemblyReference.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.AssemblyInfoInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.AssemblyInfo.cs
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\refint\binary-tree-c-sharp.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\binary-tree-c-sharp.genruntimeconfig.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Tree\binary-tree-c-sharp\obj\Debug\net6.0\ref\binary-tree-c-sharp.dll
