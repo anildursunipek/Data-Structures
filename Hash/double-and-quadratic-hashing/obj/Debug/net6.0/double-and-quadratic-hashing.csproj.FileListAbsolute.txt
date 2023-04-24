@@ -1,0 +1,15 @@
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\bin\Debug\net6.0\double-and-quadratic-hashing.exe
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\bin\Debug\net6.0\double-and-quadratic-hashing.deps.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\bin\Debug\net6.0\double-and-quadratic-hashing.runtimeconfig.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\bin\Debug\net6.0\double-and-quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\bin\Debug\net6.0\double-and-quadratic-hashing.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.csproj.AssemblyReference.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.AssemblyInfoInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.AssemblyInfo.cs
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.csproj.CoreCompileInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\refint\double-and-quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\double-and-quadratic-hashing.genruntimeconfig.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\double-and-quadratic-hashing\obj\Debug\net6.0\ref\double-and-quadratic-hashing.dll
