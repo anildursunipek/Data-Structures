@@ -1,0 +1,15 @@
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\bin\Debug\net6.0\quadratic-hashing.exe
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\bin\Debug\net6.0\quadratic-hashing.deps.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\bin\Debug\net6.0\quadratic-hashing.runtimeconfig.json
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\bin\Debug\net6.0\quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\bin\Debug\net6.0\quadratic-hashing.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.csproj.AssemblyReference.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.AssemblyInfoInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.AssemblyInfo.cs
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.csproj.CoreCompileInputs.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\refint\quadratic-hashing.dll
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.pdb
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\quadratic-hashing.genruntimeconfig.cache
+C:\Users\fb-du\Desktop\Github\Data-Structures\Hash\quadratic-hashing\obj\Debug\net6.0\ref\quadratic-hashing.dll

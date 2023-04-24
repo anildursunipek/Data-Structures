@@ -4,7 +4,8 @@
     {
         public static void Main(String[] args)
         {
-            /* Double Hashing
+            /* Anıl Dursun İpek - 031890131
+             * Double Hashing
             Properties
             ----------
             Node[] hashTable;
@@ -30,7 +31,6 @@
             hash.Insert(new Node(7));
             hash.Insert(new Node(1));
             hash.PrintHash();
-            // OUTPUT =  | 88 | 23 | 1 | 12 | null | null | null | 62 | 56 | null | 7 |
             /* 
             Description ( Prime number 7)
             -----------
@@ -64,6 +64,9 @@
             --> Hash2: 7 - (1 % 7) = 6
             --> Try: 1 + 1*6 = 7 % 11 = 7. 7th is not null.
             --> Result: 1 + 2*6 = 13 % 11 = 2. 2nd is null. Put 1 at index 2.
+
+            INDEX=      0.   1.  2.   3.    4.     5.     6.    7.   8.    9.   10.
+            OUTPUT =  | 88 | 23 | 1 | 12 | null | null | null | 62 | 56 | null | 7 |
             */
 
             hash = new MyHash(10);
